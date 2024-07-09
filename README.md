@@ -37,10 +37,6 @@
 <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
 
-### 프로젝트 구조
-
-전체 배포후 사진 첨부
-
 ### 화면
 
 -   메인화면
